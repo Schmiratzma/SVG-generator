@@ -1,4 +1,4 @@
-# SVG-genrator
+# SVG-generator
 Create SVG files from a template filled with Values from a csv
 
 set up svg/ directory: mkdir svg/
